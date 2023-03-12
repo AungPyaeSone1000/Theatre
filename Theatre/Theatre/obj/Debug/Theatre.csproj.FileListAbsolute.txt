@@ -1,0 +1,7 @@
+D:\COMP123\Theatre\Theatre\bin\Debug\Theatre.exe.config
+D:\COMP123\Theatre\Theatre\bin\Debug\Theatre.exe
+D:\COMP123\Theatre\Theatre\bin\Debug\Theatre.pdb
+D:\COMP123\Theatre\Theatre\obj\Debug\Theatre.csproj.AssemblyReference.cache
+D:\COMP123\Theatre\Theatre\obj\Debug\Theatre.csproj.CoreCompileInputs.cache
+D:\COMP123\Theatre\Theatre\obj\Debug\Theatre.exe
+D:\COMP123\Theatre\Theatre\obj\Debug\Theatre.pdb
